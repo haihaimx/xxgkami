@@ -13,7 +13,7 @@
 
 ## ✨ 系统预览
 
-![RUNOOB 图标](https://static.jyshare.com/images/runoob-logo.png "RUNOOB")
+![da68d84d438794beebb6af2a22a156e9.png](https://www.helloimg.com/i/2025/01/07/677cb25d6da53.png)
 
 ## 🌟 主要特点
 
