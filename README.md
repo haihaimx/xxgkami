@@ -206,10 +206,10 @@ $result = curl_post($url, $data);
 
 ## 📊 项目统计
 
-![Stars](https://img.shields.io/github/stars/xiaoxiaoguai-yyds/card-auth-system?style=social)
-![Forks](https://img.shields.io/github/forks/xiaoxiaoguai-yyds/card-auth-system?style=social)
-![Issues](https://img.shields.io/github/issues/xiaoxiaoguai-yyds/card-auth-system)
-![Pull Requests](https://img.shields.io/github/issues-pr/xiaoxiaoguai-yyds/card-auth-system)
+![Stars](https://img.shields.io/github/stars/xiaoxiaoguai-yyds/xxgkami/card-auth-system?style=social)
+![Forks](https://img.shields.io/github/forks/xiaoxiaoguai-yyds/xxgkami/card-auth-system?style=social)
+![Issues](https://img.shields.io/github/issues/xiaoxiaoguai-yyds/xxgkami/card-auth-system)
+![Pull Requests](https://img.shields.io/github/issues-pr/xiaoxiaoguai-yyds/xxgkami/card-auth-system)
 
 ---
 
