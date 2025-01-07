@@ -75,7 +75,7 @@
 2. 安装步骤：
    ```bash
    # 1. 下载源码
-   git clone https://github.com/yourusername/card-auth-system.git
+   git clone https://github.com/xiaoxiaoguai-yyds/card-auth-system.git
 
    # 2. 上传到网站目录
 
