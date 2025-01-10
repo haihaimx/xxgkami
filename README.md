@@ -120,11 +120,14 @@
 ### 安装步骤
 ```bash
 # 1. 下载源码
-git clone https://github.com/xiaoxiaoguai-yyds/card-auth-system.git
+git clone https://github.com/xiaoxiaoguai-yyds/xxgkami/releases/download/V1.0.1/xxg-kami.zip
+
+# 2. 解压文件
+
+tar -zxvf xxg-kami.zip
 
 # 2. 设置目录权限
-chmod -R 755 card-auth-system
-chmod -R 777 card-auth-system/upload
+chmod -R 755 xxg-kami
 
 # 3. 配置虚拟主机
 # 4. 访问安装页面
