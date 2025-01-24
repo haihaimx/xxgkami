@@ -145,22 +145,8 @@ curl_close($ch);
 
 如果这个项目对您有帮助，欢迎赞助支持我们的开发工作！
 
-<div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <img src="https://img.picui.cn/free/2025/01/24/679349c172c03.png" alt="微信赞助" width="300px">
-                <br>
-                <b>微信赞助</b>
-            </td>
-            <td align="center">
-                <img src="https://img.picui.cn/free/2025/01/24/679349c16e5bc.jpg" alt="支付宝赞助" width="300px">
-                <br>
-                <b>支付宝赞助</b>
-            </td>
-        </tr>
-    </table>
-</div>
+[![5582dc88d815315b4ae52d7e1dfb0c59_720.jpg](https://img.picui.cn/free/2025/01/24/679349c16e5bc.jpg)](https://img.picui.cn/free/2025/01/24/679349c16e5bc.jpg)
+[![6d3e80cd2396811e97db0cb8e55de498_720.png](https://img.picui.cn/free/2025/01/24/679349c172c03.png)](https://img.picui.cn/free/2025/01/24/679349c172c03.png)
 
 ### 赞助说明
 
