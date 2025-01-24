@@ -127,7 +127,7 @@ curl_close($ch);
 ## 📞 联系方式
 
 - 作者：小小怪
-- Email：2456993017@qq.com
+- Email：xxgyyds@vip.qq.com
 - GitHub：[@xiaoxiaoguai-yyds](https://github.com/xiaoxiaoguai-yyds)
 
 ## 📄 开源协议
