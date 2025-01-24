@@ -54,9 +54,9 @@ Apache/Nginx
 
 ### 安装步骤
 
-1. 克隆项目
+1. 下载项目
 ```bash
-git clone https://github.com/xiaoxiaoguai-yyds/xxgkami.git
+[下载源码](https://github.com/xiaoxiaoguai-yyds/xxgkami/releases/download/V1.0.2/xxg-kami.zip)
 ```
 
 2. 上传到网站目录
