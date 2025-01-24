@@ -149,12 +149,12 @@ curl_close($ch);
     <table>
         <tr>
             <td align="center">
-                <img src="[微信支付](https://img.picui.cn/free/2025/01/24/679349c172c03.png)" alt="微信赞助" width="300px">
+                <img src="https://img.picui.cn/free/2025/01/24/679349c172c03.png" alt="微信赞助" width="300px">
                 <br>
                 <b>微信赞助</b>
             </td>
             <td align="center">
-                <img src="[支付宝](https://img.picui.cn/free/2025/01/24/679349c16e5bc.jpg)" alt="支付宝赞助" width="300px">
+                <img src="https://img.picui.cn/free/2025/01/24/679349c16e5bc.jpg" alt="支付宝赞助" width="300px">
                 <br>
                 <b>支付宝赞助</b>
             </td>
