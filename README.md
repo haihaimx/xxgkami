@@ -55,8 +55,8 @@ Apache/Nginx
 ### 安装步骤
 
 1. 下载项目
-```bash
-[下载源码](https://github.com/xiaoxiaoguai-yyds/xxgkami/releases/download/V1.0.2/xxg-kami.zip)
+```
+https://github.com/xiaoxiaoguai-yyds/xxgkami/releases/download/V1.0.2/xxg-kami.zip
 ```
 
 2. 上传到网站目录
