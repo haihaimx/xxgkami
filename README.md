@@ -11,7 +11,6 @@
 一个功能强大、安全可靠的卡密验证系统，支持多种验证方式，提供完整的API接口。
 适用于软件授权、会员验证等场景。
 
-[演示站点](https://demo.xxgkami.com) | [使用文档](https://docs.xxgkami.com) | [问题反馈](https://github.com/xiaoxiaoguai-yyds/xxgkami/issues)
 
 </div>
 
@@ -135,7 +134,7 @@ curl_close($ch);
 
 - 作者：小小怪
 - QQ群：123456789
-- Email：support@example.com
+- Email：xxgyyds@vip.qq.com
 - GitHub：[@xiaoxiaoguai-yyds](https://github.com/xiaoxiaoguai-yyds)
 
 ## 📄 开源协议
