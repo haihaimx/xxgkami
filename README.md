@@ -133,7 +133,6 @@ curl_close($ch);
 ## 📞 联系方式
 
 - 作者：小小怪
-- QQ群：123456789
 - Email：xxgyyds@vip.qq.com
 - GitHub：[@xiaoxiaoguai-yyds](https://github.com/xiaoxiaoguai-yyds)
 
